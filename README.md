@@ -165,11 +165,4 @@ Please, report any bugs to pbustos@unex.es
 
 If you have any suggestions to improve the repository, like features or tutorials, please contact: robocomp.team@gmail.com 
 
-
-
-    
-    
-    
-
-
-
+### Testing tutorials
